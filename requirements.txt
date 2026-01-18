@@ -1,0 +1,7 @@
+tensorflow==2.17.0
+keras==3.4.1
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
